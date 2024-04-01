@@ -1,0 +1,2 @@
+krina Radadiya,krina1@gmail.com,1234,0,None,0
+tom as,tom@gmail.com,1234,2,Private Room,31
